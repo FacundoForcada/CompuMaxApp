@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDF79D80-A0F3-47A2-B30D-A21970529BB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CompuMaxApp.My.MyApplication</StartupObject>
+    <RootNamespace>CompuMaxApp</RootNamespace>
+    <AssemblyName>CompuMaxApp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CompuMaxApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CompuMaxApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\compuMax.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Capa de Datos\DAO%27s\CategoriaDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\ClienteDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\ComboDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\ComboProductoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\PromocionDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\EstadoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\GrupoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\GrupoUsuarioDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\MarcaDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\ProductoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\ProveedorDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\StockProductoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\TipoDocumentoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\TipoProductoDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\VentaDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\VentaDetComboDAO.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\VentaDetProductoDAO.vb" />
+    <Compile Include="Capa de Datos\Helper\BDHelper.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Categoria.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Cliente.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Combo.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Promocion.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Estado.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Grupo.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Marca.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Producto.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Proveedor.vb" />
+    <Compile Include="Capa de Negocio\Entidades\StockProducto.vb" />
+    <Compile Include="Capa de Negocio\Entidades\TipoDocumento.vb" />
+    <Compile Include="Capa de Negocio\Entidades\TipoProducto.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Usuario.vb" />
+    <Compile Include="Capa de Datos\DAO%27s\UsuarioDAO.vb" />
+    <Compile Include="Capa de Negocio\Entidades\Venta.vb" />
+    <Compile Include="Capa de Negocio\Entidades\VentaDetCombo.vb" />
+    <Compile Include="Capa de Negocio\Entidades\VentaDetProducto.vb" />
+    <Compile Include="Capa de Negocio\Servicios\CategoriaServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\ClienteServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\ComboProductoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\ComboServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\PromocionServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\EstadoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\GrupoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\GrupoUsuarioServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\MarcaServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\ProductoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\ProveedorServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\StockProductoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\TipoDocumentoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\TipoProductoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\UsuarioServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\VentaDetComboServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\VentaDetProductoServices.vb" />
+    <Compile Include="Capa de Negocio\Servicios\VentaServices.vb" />
+    <Compile Include="Capa de Presentacion\Categoria\Frm_ABM_categoria.Designer.vb">
+      <DependentUpon>Frm_ABM_categoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Categoria\Frm_ABM_categoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Categoria\Frm_AMBTabla_Categoria.Designer.vb">
+      <DependentUpon>Frm_AMBTabla_Categoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Categoria\Frm_AMBTabla_Categoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb">
+      <DependentUpon>Frm_ABMC_cliente.vb</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Cliente\Frm_Cliente.Designer.vb">
+      <DependentUpon>Frm_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Cliente\Frm_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\ComboProducto\Frm_ABM_ComboProducto.Designer.vb">
+      <DependentUpon>Frm_ABM_ComboProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\ComboProducto\Frm_ABM_ComboProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\ComboProducto\Frm_AgregarCantProd.Designer.vb">
+      <DependentUpon>Frm_AgregarCantProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\ComboProducto\Frm_AgregarCantProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Combo\Frm_ABMTabla_Combo.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_Combo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Combo\Frm_ABMTabla_Combo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Combo\Frm_ABM_combo.Designer.vb">
+      <DependentUpon>Frm_ABM_combo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Combo\Frm_ABM_combo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Promocion\Frm_ABMTabla_Promocion.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_Promocion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Promocion\Frm_ABMTabla_Promocion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Promocion\Frm_ABM_Promocion.Designer.vb">
+      <DependentUpon>Frm_ABM_Promocion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Promocion\Frm_ABM_Promocion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\GrupoUsuario\Frm_GrupoUsuario.Designer.vb">
+      <DependentUpon>Frm_GrupoUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\GrupoUsuario\Frm_GrupoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Grupo\Frm_ABMTabla_Grupo.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_Grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Grupo\Frm_ABMTabla_Grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Grupo\Frm_ABM_grupo.Designer.vb">
+      <DependentUpon>Frm_ABM_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Grupo\Frm_ABM_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Login\Frm_login.Designer.vb">
+      <DependentUpon>Frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Login\Frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Login\Frm_principal.Designer.vb">
+      <DependentUpon>Frm_principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Login\Frm_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Marca\Frm_ABMTabla_Marca.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_Marca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Marca\Frm_ABMTabla_Marca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Marca\Frm_ABM_marca.Designer.vb">
+      <DependentUpon>Frm_ABM_marca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Marca\Frm_ABM_marca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Producto\Frm_ABMC_producto.Designer.vb">
+      <DependentUpon>Frm_ABMC_producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Producto\Frm_ABMC_producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Producto\Frm_Producto.Designer.vb">
+      <DependentUpon>Frm_Producto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Producto\Frm_Producto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Proveedor\Frm_ABMC_Proveedor.Designer.vb">
+      <DependentUpon>Frm_ABMC_Proveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Proveedor\Frm_ABMC_Proveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Proveedor\Frm_Proveedor.Designer.vb">
+      <DependentUpon>Frm_Proveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Proveedor\Frm_Proveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteClientes.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteClientes.vb">
+      <DependentUpon>DS_ReporteClientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteCombosVendidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteCombosVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteCombosVendidos.vb">
+      <DependentUpon>DS_ReporteCombosVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProductosVendidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteProductosVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProductosVendidos.vb">
+      <DependentUpon>DS_ReporteProductosVendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProveedores.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteProveedores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteStockProductos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteStockProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteStockProductos.vb">
+      <DependentUpon>DS_ReporteStockProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteVentasXPeriodo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_ReporteVentasXPeriodo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteVentasXPeriodo.vb">
+      <DependentUpon>DS_ReporteVentasXPeriodo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Cantidad de Ventas\Frm_Reporte_VentasXPeriodo.Designer.vb">
+      <DependentUpon>Frm_Reporte_VentasXPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Cantidad de Ventas\Frm_Reporte_VentasXPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Clientes\Frm_Reporte_Clientes.Designer.vb">
+      <DependentUpon>Frm_Reporte_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Clientes\Frm_Reporte_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Combos Vendidos\Frm_Reporte_Combos_Vendidos.Designer.vb">
+      <DependentUpon>Frm_Reporte_Combos_Vendidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Combos Vendidos\Frm_Reporte_Combos_Vendidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Productos Vendidos\Frm_Reporte_Productos_Vendidos.Designer.vb">
+      <DependentUpon>Frm_Reporte_Productos_Vendidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Productos Vendidos\Frm_Reporte_Productos_Vendidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Proveedores\Frm_Reporte_Proveedores.Designer.vb">
+      <DependentUpon>Frm_Reporte_Proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Proveedores\Frm_Reporte_Proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Stock de Productos\Frm_Reporte_Stock_Productos.Designer.vb">
+      <DependentUpon>Frm_Reporte_Stock_Productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Stock de Productos\Frm_Reporte_Stock_Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\StockProducto\Frm_stock.Designer.vb">
+      <DependentUpon>Frm_stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\StockProducto\Frm_stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoDocumento\Frm_ABMTabla_TipoDocumento.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_TipoDocumento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoDocumento\Frm_ABMTabla_TipoDocumento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoDocumento\Frm_ABM_tipoDocumento.Designer.vb">
+      <DependentUpon>Frm_ABM_tipoDocumento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoDocumento\Frm_ABM_tipoDocumento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoProducto\Frm_ABMTabla_TipoProducto.Designer.vb">
+      <DependentUpon>Frm_ABMTabla_TipoProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoProducto\Frm_ABMTabla_TipoProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoProducto\Frm_ABM_tipoProducto.Designer.vb">
+      <DependentUpon>Frm_ABM_tipoProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\TipoProducto\Frm_ABM_tipoProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Transaccion\Venta\Frm_Tr_Venta.Designer.vb">
+      <DependentUpon>Frm_Tr_Venta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Transaccion\Venta\Frm_Tr_Venta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Usuario\Frm_ABMC_usuario.Designer.vb">
+      <DependentUpon>Frm_ABMC_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Usuario\Frm_ABMC_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Usuario\Frm_Usuario.Designer.vb">
+      <DependentUpon>Frm_Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Capa de Presentacion\Usuario\Frm_Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB_CompuMaxDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_CompuMaxDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_CompuMaxDataSet_FacundoPC.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_CompuMaxDataSet_FacundoPC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_CompuMaxDataSet_Labsis.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_CompuMaxDataSet_Labsis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Capa de Presentacion\Categoria\Frm_ABM_categoria.resx">
+      <DependentUpon>Frm_ABM_categoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Categoria\Frm_AMBTabla_Categoria.resx">
+      <DependentUpon>Frm_AMBTabla_Categoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx">
+      <DependentUpon>Frm_ABMC_cliente.vb</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Cliente\Frm_Cliente.resx">
+      <DependentUpon>Frm_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\ComboProducto\Frm_ABM_ComboProducto.resx">
+      <DependentUpon>Frm_ABM_ComboProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\ComboProducto\Frm_AgregarCantProd.resx">
+      <DependentUpon>Frm_AgregarCantProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Combo\Frm_ABMTabla_Combo.resx">
+      <DependentUpon>Frm_ABMTabla_Combo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Combo\Frm_ABM_combo.resx">
+      <DependentUpon>Frm_ABM_combo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Promocion\Frm_ABMTabla_Promocion.resx">
+      <DependentUpon>Frm_ABMTabla_Promocion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Promocion\Frm_ABM_Promocion.resx">
+      <DependentUpon>Frm_ABM_Promocion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\GrupoUsuario\Frm_GrupoUsuario.resx">
+      <DependentUpon>Frm_GrupoUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Grupo\Frm_ABMTabla_Grupo.resx">
+      <DependentUpon>Frm_ABMTabla_Grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Grupo\Frm_ABM_grupo.resx">
+      <DependentUpon>Frm_ABM_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Login\Frm_login.resx">
+      <DependentUpon>Frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Login\Frm_principal.resx">
+      <DependentUpon>Frm_principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Marca\Frm_ABMTabla_Marca.resx">
+      <DependentUpon>Frm_ABMTabla_Marca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Marca\Frm_ABM_marca.resx">
+      <DependentUpon>Frm_ABM_marca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Producto\Frm_ABMC_producto.resx">
+      <DependentUpon>Frm_ABMC_producto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Producto\Frm_Producto.resx">
+      <DependentUpon>Frm_Producto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Proveedor\Frm_ABMC_Proveedor.resx">
+      <DependentUpon>Frm_ABMC_Proveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Proveedor\Frm_Proveedor.resx">
+      <DependentUpon>Frm_Proveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Cantidad de Ventas\Frm_Reporte_VentasXPeriodo.resx">
+      <DependentUpon>Frm_Reporte_VentasXPeriodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Cantidad de Ventas\rv_reporte_ventasXPeriodo.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Clientes\Frm_Reporte_Clientes.resx">
+      <DependentUpon>Frm_Reporte_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Clientes\rv_reporte_clientes.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Combos Vendidos\Frm_Reporte_Combos_Vendidos.resx">
+      <DependentUpon>Frm_Reporte_Combos_Vendidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Combos Vendidos\rv_reporte_combos_vendidos.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Productos Vendidos\Frm_Reporte_Productos_Vendidos.resx">
+      <DependentUpon>Frm_Reporte_Productos_Vendidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Productos Vendidos\rv_reporte_productos_vendidos.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Proveedores\Frm_Reporte_Proveedores.resx">
+      <DependentUpon>Frm_Reporte_Proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Proveedores\rv_reporte_proveedores.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Stock de Productos\Frm_Reporte_Stock_Productos.resx">
+      <DependentUpon>Frm_Reporte_Stock_Productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Reportes y Estadisticas\Design\Reporte de Stock de Productos\rv_reporte_stock_productos.rdlc" />
+    <EmbeddedResource Include="Capa de Presentacion\StockProducto\Frm_stock.resx">
+      <DependentUpon>Frm_stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\TipoDocumento\Frm_ABMTabla_TipoDocumento.resx">
+      <DependentUpon>Frm_ABMTabla_TipoDocumento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\TipoDocumento\Frm_ABM_tipoDocumento.resx">
+      <DependentUpon>Frm_ABM_tipoDocumento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\TipoProducto\Frm_ABMTabla_TipoProducto.resx">
+      <DependentUpon>Frm_ABMTabla_TipoProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\TipoProducto\Frm_ABM_tipoProducto.resx">
+      <DependentUpon>Frm_ABM_tipoProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Transaccion\Venta\Frm_Tr_Venta.resx">
+      <DependentUpon>Frm_Tr_Venta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Usuario\Frm_ABMC_usuario.resx">
+      <DependentUpon>Frm_ABMC_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capa de Presentacion\Usuario\Frm_Usuario.resx">
+      <DependentUpon>Frm_Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteClientes.xsc">
+      <DependentUpon>DS_ReporteClientes.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteClientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteClientes.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteClientes.xss">
+      <DependentUpon>DS_ReporteClientes.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteCombosVendidos.xsc">
+      <DependentUpon>DS_ReporteCombosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteCombosVendidos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteCombosVendidos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteCombosVendidos.xss">
+      <DependentUpon>DS_ReporteCombosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProductosVendidos.xsc">
+      <DependentUpon>DS_ReporteProductosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProductosVendidos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteProductosVendidos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProductosVendidos.xss">
+      <DependentUpon>DS_ReporteProductosVendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProveedores.xsc">
+      <DependentUpon>DS_ReporteProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProveedores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteProveedores.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteProveedores.xss">
+      <DependentUpon>DS_ReporteProveedores.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteStockProductos.xsc">
+      <DependentUpon>DS_ReporteStockProductos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteStockProductos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteStockProductos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteStockProductos.xss">
+      <DependentUpon>DS_ReporteStockProductos.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteVentasXPeriodo.xsc">
+      <DependentUpon>DS_ReporteVentasXPeriodo.xsd</DependentUpon>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteVentasXPeriodo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_ReporteVentasXPeriodo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Capa de Presentacion\Reportes y Estadisticas\Data\DS_ReporteVentasXPeriodo.xss">
+      <DependentUpon>DS_ReporteVentasXPeriodo.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet.xsc">
+      <DependentUpon>DB_CompuMaxDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_CompuMaxDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_CompuMaxDataSet.xss">
+      <DependentUpon>DB_CompuMaxDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet_FacundoPC.xsc">
+      <DependentUpon>DB_CompuMaxDataSet_FacundoPC.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet_FacundoPC.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_CompuMaxDataSet_FacundoPC.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_CompuMaxDataSet_FacundoPC.xss">
+      <DependentUpon>DB_CompuMaxDataSet_FacundoPC.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet_Labsis.xsc">
+      <DependentUpon>DB_CompuMaxDataSet_Labsis.xsd</DependentUpon>
+    </None>
+    <None Include="DB_CompuMaxDataSet_Labsis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_CompuMaxDataSet_Labsis.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_CompuMaxDataSet_Labsis.xss">
+      <DependentUpon>DB_CompuMaxDataSet_Labsis.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comentar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CompuMaxPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Capa de Presentacion\Transaccion\Control de Stock\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_aceptar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_consultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="compuMax.ico" />
+    <None Include="Resources\compuMax.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

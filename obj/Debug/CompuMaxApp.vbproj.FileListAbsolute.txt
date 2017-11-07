@@ -1,0 +1,842 @@
+D:\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+C:\Users\facun\Downloads\Facundo\Repositorio\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.2\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+F:\TP PAVI\CompuMaxUltimo\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+F:\TP PAVI\CompuMaxUltimo\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+F:\TP PAVI\CompuMaxUltimo\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+F:\TP PAVI\CompuMaxUltimo\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.4.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Descargas\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\CompuMax\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.6.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+F:\TP PAVI\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+C:\Users\facun\Downloads\CompuMax_V.1.6.3\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.1\CompuMax\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMax_V.1.7.5\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.7.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Descargas\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\pepeelcarpintero\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.1.9.6\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+C:\Users\facun\Downloads\CompuMaxApp_V.1.9.8\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Proveedores.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Proveedores.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+D:\Descargas\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Proveedores.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+D:\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\dsadsa\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Proveedores.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+D:\dsadsa\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+F:\TP PAVI\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Estadistico_Ventas.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe.config
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.resx
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.Designer.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\Capa de Presentacion\Cliente\Frm_ABMC_cliente.vb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.exe
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.pdb
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\bin\Debug\CompuMaxApp.xml
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbprojResolveAssemblyReference.cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AMBTabla_Categoria.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Cliente.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_ComboProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_AgregarCantProd.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_combo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_Promocion.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_GrupoUsuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_grupo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Login.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_principal.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_Marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_marca.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Producto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Proveedor.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_VentasXPeriodo.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Clientes.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Combos_Vendidos.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Productos_Vendidos.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Proveedores.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Stock_Productos.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Reporte_Estadistico_Ventas.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_stock.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoDocumento.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMTabla_TipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABM_tipoProducto.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Tr_Venta.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_ABMC_usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Frm_Usuario.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.Resources.resources
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\CompuMaxApp.vbproj.GenerateResource.Cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.cache
+D:\Ingenieria\PAV I (Programacion de Aplicaciones Visuales 1)\TP\Versiones Programa\CompuMax_V.2.3\CompuMaxApp\CompuMaxApp\obj\Debug\RdlCompile.compiled

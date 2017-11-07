@@ -1,0 +1,1508 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CompuMaxApp
+</name>
+</assembly>
+<members>
+<member name="T:CompuMaxApp.DS_ReporteProveedores.ReporteProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedores.ReporteProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedores.ReporteProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedores">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedoresTableAdapters.ReporteProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.UpdateUpdatedRows(CompuMaxApp.DS_ReporteProveedores,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.UpdateInsertedRows(CompuMaxApp.DS_ReporteProveedores,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.UpdateDeletedRows(CompuMaxApp.DS_ReporteProveedores,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.UpdateAll(CompuMaxApp.DS_ReporteProveedores)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProveedoresTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientes.ReporteClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientes.ReporteClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientes.ReporteClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientesTableAdapters.ReporteClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.UpdateUpdatedRows(CompuMaxApp.DS_ReporteClientes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.UpdateInsertedRows(CompuMaxApp.DS_ReporteClientes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.UpdateDeletedRows(CompuMaxApp.DS_ReporteClientes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.UpdateAll(CompuMaxApp.DS_ReporteClientes)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteClientesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteStockProductos.ReporteStockProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteStockProductos.ReporteStockProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteStockProductos.ReporteStockProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteStockProductos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProductosVendidos.ReporteProductosVendidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProductosVendidos.ReporteProductosVendidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProductosVendidos.ReporteProductosVendidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteProductosVendidos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MarcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.StockProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoDocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.CategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PromocionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MovimientoStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesActivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresActivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MarcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.StockProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoDocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.CategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PromocionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MovimientoStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesActivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresActivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ComboProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.GrupoUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MarcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PedidoCompraDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ProveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.StockProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoDocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.TipoProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.VentaDetProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.CategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.PromocionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.MovimientoStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteClientesActivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis.ReporteProveedoresActivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_Labsis">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ComboProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.GrupoProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.GrupoUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.MarcaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.PedidoCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.PedidoCompraDetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ProveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.StockProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TipoDocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TipoProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.VentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.VentaDetComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.VentaDetProdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.CategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.PromocionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.MovimientoStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ReporteClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ReporteClientesActivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ReporteProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.ReporteProveedoresActivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.UpdateUpdatedRows(CompuMaxApp.DB_CompuMaxDataSet_Labsis,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.UpdateInsertedRows(CompuMaxApp.DB_CompuMaxDataSet_Labsis,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.UpdateDeletedRows(CompuMaxApp.DB_CompuMaxDataSet_Labsis,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.UpdateAll(CompuMaxApp.DB_CompuMaxDataSet_Labsis)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_LabsisTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.MarcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.StockProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoDocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.MarcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.StockProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoDocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ComboProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.GrupoUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.MarcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.PedidoCompraDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.ProveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.StockProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoDocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.TipoProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet.VentaDetProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ComboProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.GrupoProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.GrupoUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.MarcaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.PedidoCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.PedidoCompraDetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.ProveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.StockProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TipoDocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TipoProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.VentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.VentaDetComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.VentaDetProdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CompuMaxApp.DB_CompuMaxDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CompuMaxApp.DB_CompuMaxDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CompuMaxApp.DB_CompuMaxDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.UpdateAll(CompuMaxApp.DB_CompuMaxDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources._aceptar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources._agregar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources._cancelar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources._consultar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources._salir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.comentar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.compuMax">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.CompuMaxPNG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.editar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.eliminar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.salir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CompuMaxApp.My.Resources.Resources.user_log">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CompuMaxApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteVentasXPeriodo.ReporteVentasXPeriodoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteVentasXPeriodo.ReporteVentasXPeriodoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteVentasXPeriodo.ReporteVentasXPeriodoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteVentasXPeriodo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteCombosVendidos.ReporteCombosVendidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteCombosVendidos.ReporteCombosVendidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteCombosVendidos.ReporteCombosVendidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DS_ReporteCombosVendidos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MarcaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraDetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProcesoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.StockProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoDocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetComboDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetProdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.CategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MovimientoStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PromocionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteStockProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MarcaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraDetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProcesoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.StockProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoDocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetComboRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetProdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.CategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MovimientoStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PromocionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteStockProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ComboProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.GrupoUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MarcaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PedidoCompraDetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProcesoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ProveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.StockProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoDocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.TipoProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetComboRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.VentaDetProdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.CategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.MovimientoStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.PromocionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC.ReporteStockProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPC">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ComboProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.GrupoProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.GrupoUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.MarcaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.PedidoCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.PedidoCompraDetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ProcesoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ProveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.StockProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TipoDocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TipoProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.VentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.VentaDetComboTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.VentaDetProdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.CategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.MovimientoStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.PromocionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ReporteClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.ReporteStockProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.UpdateUpdatedRows(CompuMaxApp.DB_CompuMaxDataSet_FacundoPC,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.UpdateInsertedRows(CompuMaxApp.DB_CompuMaxDataSet_FacundoPC,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.UpdateDeletedRows(CompuMaxApp.DB_CompuMaxDataSet_FacundoPC,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.UpdateAll(CompuMaxApp.DB_CompuMaxDataSet_FacundoPC)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CompuMaxApp.DB_CompuMaxDataSet_FacundoPCTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
